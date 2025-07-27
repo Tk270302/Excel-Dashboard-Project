@@ -32,6 +32,7 @@ Visual breakdown using:
 - **Bar Charts** for:
   - Employment Length vs Loan Data
   - Loan Purpose Analysis
+
 - **Tree Map** for Home Ownership Analysis
 
 
@@ -44,8 +45,11 @@ An aggregated view for deep dive into:
 
 
 
+
 🛠 Tools Used
 - Microsoft Excel (Pivot Tables, Charts, Conditional Formatting)
 - Data Cleaning & Structuring using Excel Formulas
 
+<img width="1162" height="661" alt="excel dashboard 2" src="https://github.com/user-attachments/assets/0a5d8753-8717-4048-b424-66e5577badb0" />
+<img width="1127" height="627" alt="excel dashboard" src="https://github.com/user-attachments/assets/4cfd9b9a-4cb9-4346-ba97-1a288b24b3b3" />
 
